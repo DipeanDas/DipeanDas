@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://drive.google.com/uc?id=17yq4CfAQtS4bVgJ8iQNEgivZTiRuK8Gb" alt="MasterHead" style="width: 100%; height: auto;">
+    <img src="https://drive.google.com/uc?id=1v2vjSHein7MkOxJqqO-fvyvjDhvcFTKf" alt="MasterHead" style="width: 100%; height: auto;">
 </div>
 <h1 align="center">Hi 👋, I'm Dipean Dasgupta</h1>
 <h3 align="center">I am passionate and detail oriented Data Analyst from Bangladesh and a final year student in IIIT Vadodara pursuing BTech in Computer Science and Engineering.</h3>
