@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Big data analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DipeanDas](https://github.com/DipeanDas)
+- 👨‍💻 All of my projects are available at [Portfolio_DipeanDasgupta](https://sites.google.com/view/dipeandas-portfolio)
 
 - 💬 Ask me about **SQL, Python, Excel, PowerBI, Tableau**
 
