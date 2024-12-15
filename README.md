@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeandas&label=Profile%20views&color=0e75b6&style=flat" alt="dipeandas" /> </p>
 
-- 🔭 I’m currently working on [ADSS](https://github.com/Advance-Drone-Surveillance-System)
+- 🔭 I’m currently working on Edge AI.
 
 - 🌱 I’m currently learning **Machine Learning, Big data analytics**
 
@@ -24,9 +24,9 @@
 <a href="https://kaggle.com/dipeandasgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipeandasgupta" height="30" width="40" /></a>
 <a href="https://fb.com/dasgupta2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dasgupta2001" height="30" width="40" /></a>
 <a href="https://instagram.com/dipean_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipean_das" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dipean188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipean188" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dipeandasgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipeandasgupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dipeandas1188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipeandas1188" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dipeandas1188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dipeandas1188" height="30" width="40" /></a>    
+<a href="https://www.codechef.com/users/dipean188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipean188" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
