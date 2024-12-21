@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://drive.google.com/uc?id=1v2vjSHein7MkOxJqqO-fvyvjDhvcFTKf" alt="MasterHead" style="width: 100%; height: auto;">
+    <img src="https://drive.google.com/file/d/18g2xYkJGMCI5GXgzlqQdClg_nkOPnXgX/view?usp=sharing" alt="MasterHead" style="width: 100%; height: auto;">
 </div>
 <h1 align="center">Hi 👋, I'm Dipean Dasgupta</h1>
 <h3 align="center">I am a passionate and detail-oriented Data Analyst and a final-year student at IIIT Vadodara, pursuing a B.Tech in Computer Science and Engineering. Currently, I am exploring the fascinating domain of Edge AI as a Research Intern, combining my interest in machine learning and electronics for hardware acceleration and  developing innovative solutions for real-world applications.</h3>
