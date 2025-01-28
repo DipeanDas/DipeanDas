@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio_DipeanDasgupta](https://sites.google.com/view/dipeandas-portfolio)
 
-- 💬 Ask me about **SQL, Python, Excel, PowerBI, Tableau**
+- 💬 Ask me about **SQL, Python, R, Excel, PowerBI, Tableau**
 
 - 📫 How to reach me **dipeandasgupta@gmail.com**
 
