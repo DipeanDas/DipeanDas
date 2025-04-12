@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Dipean Dasgupta</h1>
 <h3 align="center">I am a passionate and detail-oriented Data Analyst and a final-year student at IIIT Vadodara, pursuing a B.Tech in Computer Science and Engineering. Currently, I am exploring the fascinating domain of Edge AI as a Research Intern, combining my interest in machine learning and electronics for hardware acceleration and  developing innovative solutions for real-world applications.</h3>
-<img align="right" alt="Coding GIF" width="400" src="https://drive.google.com/file/d/1hMFrMilPt5iH--Q02DvgaR7K7OLIWQrx/view?usp=sharing">
+<img align="right" alt="Coding GIF" width="400" src="https://drive.google.com/uc?id=1hMFrMilPt5iH--Q02DvgaR7K7OLIWQrx" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeandas&label=Profile%20views&color=0e75b6&style=flat" alt="dipeandas" /> </p>
